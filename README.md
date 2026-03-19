@@ -2,6 +2,7 @@
 
 This notebook is specially designed for young programmers who want to learn Python in a practical and structured way. It covers everything I have learned so far, organized step by step so beginners can easily understand, practice, and grow their coding skills.
 
+
 📚 Topics Covered in This Notebook:
 
 # 1. Basics & Variables
@@ -64,11 +65,10 @@ Type_Definitions.py
 
 mathematice_operation.py
 
-Math_Table_Generator.py
-
 Virtual_Environment.py
 
 PIP_FREEZE_COMMAND.py
+
 
 🎯 Why Use This Notebook?
 ✔ Beginner-friendly explanations
