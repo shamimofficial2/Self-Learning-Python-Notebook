@@ -4,37 +4,71 @@ This notebook is specially designed for young programmers who want to learn Pyth
 
 📚 Topics Covered in This Notebook:
 
-Variables & Data Types
+# 1. Basics & Variables
 
-Strings, Lists, Tuples, Sets, Dictionaries
+variable_&_data_types.py
 
-Conditional Statements (if-elif-else)
+input_function.py
 
-Loops (for, while, break, continue)
+string.py
 
-Functions & Lambda Functions
+tuple.py
 
-Object-Oriented Programming (OOP)
+list.py
 
-Exception Handling
+set.py
 
-File Input & Output
+dictionary.py
 
-Virtual Environment & pip freeze
+# 2. Control Flow
 
-Map, Filter & Reduce
+if_elif_else_condition_&_statement.py
 
-Match Case & Walrus Operator
+for_loop_&_while_loop.py
 
-Type Definitions
+break_&_continue.py
 
-Turtle Module & pyttsx3 Module
+walrus_operator.py
 
-Math Operations & Table Generator
+match_case.py
 
-Main Guard (if __name__ == "__main__")
+# 3. Functions
 
-And much more!
+def_function.py
+
+Lambda_Functions.py
+
+Main_Guard.py
+
+# 4. Object-Oriented Programming
+
+Object_Oriented_Programming.py
+
+# 5. Modules & Packages
+
+pyttsx3_module.py
+
+turtle_module.py
+
+# 6. File Handling & Exception
+
+file_input_&_output_system.py
+
+Exception_Handling.py
+
+# 7. Advanced Topics
+
+map_filter_&_reduce.py
+
+Type_Definitions.py
+
+mathematice_operation.py
+
+Math_Table_Generator.py
+
+Virtual_Environment.py
+
+PIP_FREEZE_COMMAND.py
 
 🎯 Why Use This Notebook?
 ✔ Beginner-friendly explanations
