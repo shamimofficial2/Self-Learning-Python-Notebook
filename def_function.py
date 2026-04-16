@@ -42,3 +42,22 @@ def fun(x):
     # value_if_true if condition else value_if_false
 
 print(fun(1)) # True
+
+
+
+""" *args & **kwargs """
+
+# *args allows a function to accept multiple positional arguments.
+
+def function(*args): # args is just a name; * is what matters
+    print(args) # args return a tuple
+
+print(function(1,2,3)) # (1, 2, 3)
+
+
+# **kwargs allows a function to accept multiple keyword arguments.
+
+def function(**kwargs): # kwargs is just a name; ** is what matters
+    print(kwargs) # kwargs return a dictionary
+
+print(function(Name = "Nahid", Age = 17)) # {'Name': 'Nahid', 'Age': 17}
